@@ -20,6 +20,7 @@ A shell tool to run commands in response to directory changes.
 2. Run 'KIDSv2.py' and follow the menu option.
 
 **MENU OPTIONS:**
+
 SCANNER MENU:
 There are 4 options in Scanner menu.
 [1] Browse & Select folder: Browse and select folder to monitor for file change.
