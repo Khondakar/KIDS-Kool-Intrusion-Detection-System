@@ -18,7 +18,7 @@ A shell tool to run commands in response to directory changes.
 
    ```https://github.com/Khondakar/KIDS-Kool-Intrusion-Detection-System.git```
    
-2. Run 'KIDSv2.py' and follow the menu option.
+2. Run ```KIDSv2.py``` and follow the menu option.
 
 **MENU OPTIONS:**
 ```
