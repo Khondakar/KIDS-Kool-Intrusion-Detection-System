@@ -25,9 +25,9 @@ A shell tool to run commands in response to directory changes.
 SCANNER MENU:
 There are 4 options in Scanner menu.
 [1] Browse & Select folder: Browse and select folder to monitor for file system change.
-[2] Start Scanner: After selecting folder, it will start the scanner to monitor any change.
-    If no folder being select from option (a) – scanner automatically choose current folder to scan by default.
-[3] Stop Scanner: To stop the scanner.
+[2] Start Scanner: After selecting folder, it will start the KIDS scanner to monitor any change in file system or folder.
+    If no folder being selected from option [1] – scanner will automatically choose current folder to scan by default.
+[3] Stop Scanner: To stop the KIDS scanner.
 [4] Exit: To exit from the KIDS tool.
  
 REPORT MENU:
