@@ -37,10 +37,10 @@ There are 3 option available in this menu item.
 [3] Dashboard report: This will display bar chart based on the collective data.
 
 SEARCH MENU:
-To search anything in the Log file, choose this option.
+To search anything in the Log file, choose this option. A pop-up dialogue box will appear to enter the search item.
  
 ALERT MENU:
-This option is to send email alert manually. This will email File Monitor Log file as an attachment to predefined email address.
+This option is to send email alert manually. This will email 'KIDSFileMonitor.log' file as an attachment to predefined email address.
  
 HELP MENU:
 There are 2 options here-
