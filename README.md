@@ -20,7 +20,7 @@ A shell tool to run commands in response to directory changes.
 2. Run 'KIDSv2.py' and follow the menu option.
 
 **MENU OPTIONS:**
-
+```
 SCANNER MENU:
 There are 4 options in Scanner menu.
 [1] Browse & Select folder: Browse and select folder to monitor for file change.
@@ -43,5 +43,6 @@ This option is to send email alert manually. This will email File Monitor Log fi
  
 HELP MENU:
 There are 2 options here-
-[1] Getting started: This will open the instructions how to operate this KIDS tool.
-[2] About: It will show the name and version of KIDS tool.
+[1]	Getting started: This will open the instructions how to operate this KIDS tool.
+[2]	About: It will show the name and version of KIDS tool.
+```
