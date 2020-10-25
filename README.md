@@ -13,6 +13,11 @@ Python API library and shell utilities to monitor file system events.
 A shell tool to run commands in response to directory changes.
 
 **HOW TO USE IT:**
+1. Clone or Download all files in a directory from below link:
+
+   ```https://github.com/Khondakar/KIDS-Kool-Intrusion-Detection-System.git```
+   
+2. Run 'KIDSv2.py' and follow the menu option.
 
 MENU OPTIONS:
 ~~~~~~~~~~~~~~~
@@ -38,5 +43,5 @@ This option is to send email alert manually. This will email File Monitor Log fi
  
 HELP MENU:
 There are 2 options here-
-[1]	Getting started: This will open the instructions how to operate this KIDS tool.
-[2]	About: It will show the name and version of KIDS tool.
+[1] Getting started: This will open the instructions how to operate this KIDS tool.
+[2] About: It will show the name and version of KIDS tool.
