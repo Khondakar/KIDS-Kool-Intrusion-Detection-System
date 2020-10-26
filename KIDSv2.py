@@ -117,7 +117,7 @@ class MAIN:
         report_menu.add_command(label="Main report", command=lambda: self.display_report())
         report_menu.add_command(label="Collective report", command=lambda: self.collect_data())
         report_menu.add_separator()
-        report_menu.add_command(label="Dashboard report", command=lambda: self.display_dashboard())
+        report_menu.add_command(label="Graphical report", command=lambda: self.graphical_report())
 
         # Create 'Search' menu items
         search_menu = Menu(my_menu, tearoff=0)
@@ -127,7 +127,7 @@ class MAIN:
         # Create 'Alert' menu items
         alert_menu = Menu(my_menu, tearoff=0)
         my_menu.add_cascade(label="Alert", menu=alert_menu)
-        alert_menu.add_command(label="Send email alert", command=lambda: self.email_alert())
+        alert_menu.add_command(label="Send email alert", command=lambda: self.manual_email_alert())
 
         # Create 'Help' menu items
         help_menu = Menu(my_menu, tearoff=0)
@@ -270,7 +270,7 @@ class MAIN:
             self.log("Exception error: File not found!")
 
     # Email alert notification
-    def email_alert(self):
+    def manual_email_alert(self):
         try:
             user = 'user1@gmail.com'
             app_password = 'password'  # google app password
@@ -291,7 +291,7 @@ class MAIN:
             self.log("Email Alert Exception Error!")
 
     # Plotting graph
-    def display_dashboard(self):
+    def graphical_report(self):
         try:
             # Select the csv file from current folder
             df = pd.read_csv("collect_data.csv")
