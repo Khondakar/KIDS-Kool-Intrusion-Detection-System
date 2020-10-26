@@ -70,9 +70,9 @@ class KIDS(PatternMatchingEventHandler, Observer):
     # Email alert notification
     def email_alert(self):
         try:
-            user = 'khondakar.alsabah@gmail.com'
-            app_password = 'brbnqygjvgallqjc'  # google app password
-            to = 'khondakar.alsabah@live.vu.edu.au'
+            user = 'user1@gmail.com'
+            app_password = 'user1password'  # google app password
+            to = 'user2@gmail.com'
             # to = [‘user1@gmail.com’, ‘user2@yahoo.com’] # To send a group of recipients
 
             subject = '** SECURITY ALERT ** File System Changed!'
