@@ -1,4 +1,4 @@
-# KIDS-Kool-Intrusion-Detection-System
+# KIDS - Kool Intrusion Detection System
 
 **SOURCE INFO:**
 
