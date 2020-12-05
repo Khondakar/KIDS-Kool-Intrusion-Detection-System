@@ -52,25 +52,30 @@ There are 4 options in Scanner menu.
     If no folder being selected from option [1] – scanner will automatically choose current folder to scan by default.
 [3] Stop Scanner: To stop the KIDS scanner.
 [4] Exit: To exit from the KIDS tool.
+```
 ![alt text](https://github.com/Khondakar/KIDS-Kool-Intrusion-Detection-System/blob/main/screenshot/ScannerMenu.png)
-
-![alt text](https://github.com/Khondakar/KIDS-Kool-Intrusion-Detection-System/blob/main/ScannerMenu.png)
-
-
+```
 REPORT MENU:
 There are 3 option available in this menu item.
 [1] Main report: This will show the whole report from the Log file.
 [2] Collective report: This will show collective report based on date and event type.
 [3] Dashboard report: This will display bar chart based on the collective data.
-
+```
+![alt text](https://github.com/Khondakar/KIDS-Kool-Intrusion-Detection-System/blob/main/screenshot/ReportMenu.png)
+```
 SEARCH MENU:
 To search anything in the Log file, choose this option. A pop-up dialogue box will appear to enter the search item.
- 
+```
+![alt text](https://github.com/Khondakar/KIDS-Kool-Intrusion-Detection-System/blob/main/screenshot/SearchMenu.png)
+```
 ALERT MENU:
 This option is to send email alert manually. This will email 'KIDSFileMonitor.log' file as an attachment to predefined email address.
- 
+```
+![alt text](https://github.com/Khondakar/KIDS-Kool-Intrusion-Detection-System/blob/main/screenshot/AlertMenu.png)
+```
 HELP MENU:
 There are 2 options here-
 [1]	Getting started: This will open the instructions how to operate this KIDS tool.
 [2]	About: It will show the name and version of KIDS tool.
 ```
+![alt text](https://github.com/Khondakar/KIDS-Kool-Intrusion-Detection-System/blob/main/screenshot/HelpMenu.png)
