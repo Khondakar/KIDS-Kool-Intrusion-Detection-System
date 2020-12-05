@@ -52,7 +52,11 @@ There are 4 options in Scanner menu.
     If no folder being selected from option [1] – scanner will automatically choose current folder to scan by default.
 [3] Stop Scanner: To stop the KIDS scanner.
 [4] Exit: To exit from the KIDS tool.
- 
+![alt text](https://github.com/Khondakar/KIDS-Kool-Intrusion-Detection-System/blob/main/screenshot/ScannerMenu.png)
+
+![alt text](https://github.com/Khondakar/KIDS-Kool-Intrusion-Detection-System/blob/main/ScannerMenu.png)
+
+
 REPORT MENU:
 There are 3 option available in this menu item.
 [1] Main report: This will show the whole report from the Log file.
